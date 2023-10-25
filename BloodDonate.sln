@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodDonate", "BloodDonate\BloodDonate.csproj", "{BA232F77-2D5D-4A9B-B12F-591FF4C5B43E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA232F77-2D5D-4A9B-B12F-591FF4C5B43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA232F77-2D5D-4A9B-B12F-591FF4C5B43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA232F77-2D5D-4A9B-B12F-591FF4C5B43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA232F77-2D5D-4A9B-B12F-591FF4C5B43E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
