@@ -82,6 +82,6 @@ public class EmployeeController : ControllerBase
         }
         _context.Employees.Remove(result);
         await _context.SaveChangesAsync();
-        return NoContent();
+        return Ok();
     }
 }
